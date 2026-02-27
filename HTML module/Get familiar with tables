@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Table
+        </title>
+    </head>
+    <body>
+        <table border="3">
+        <thead> <tr> <th> No. </th> <th> Customer name </th> <th> Car name </th></tr> </thead> 
+        <tbody> <tr> <td> 1 </td> <td> Ali </td> <td> Tesla </td></tr> </tbody>
+        <tbody> <tr> <td> 2 </td> <td> Sara </td> <td> Honda </td></tr></tbody>
+    </table>
+    </body>
+</html>
