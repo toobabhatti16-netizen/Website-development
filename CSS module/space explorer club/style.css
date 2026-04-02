@@ -1,0 +1,23 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
+}
+a{
+    color:bisque;
+    text-decoration: none;
+
+    
+}
+a:hover{
+    color:blueviolet
+}
+ul li:nth-child(2){
+    background-color:aqua;
+}
+p::first-letter{
+    font-size:200%;
+    color: pink;
+}
+
+    
+
